@@ -1,0 +1,19 @@
+title: EDOS Sales Academy
+description: >-
+  A crash course for new EDOS sales team members: who we are, what we sell,
+  who buys it, and how to talk about it. No technical background needed.
+theme: minima
+minima:
+  skin: auto
+header_pages:
+  - 01-who-we-are.md
+  - 02-the-big-picture.md
+  - 03-ork-meter.md
+  - 04-ork-meter-enterprise.md
+  - 05-orkestera.md
+  - 06-consulting.md
+  - 07-who-buys.md
+  - 08-conversations.md
+  - 09-say-and-dont-say.md
+  - glossary.md
+  - quiz.md
